@@ -13,6 +13,7 @@ I've selected many types of features (116 total) to deal with the variability of
 -   3 Color ratios
 -   13 Haralick/GSCM features
 -   54 Local Binary Patterns
+
 With such features, the species should be seperable and recognizable, as we can also see from the PCA analysis:
 
 
