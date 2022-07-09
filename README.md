@@ -26,7 +26,7 @@ The features selected are quite extensive, so I've tried to see which ones prove
 
 ![Importance of feature groups](imgs/plot1.png)
 
-showing that local binary patterns are the most important (accuracy drops the most when removing them). Actually, when normalizing by feature group size (which for LBPs is the biggest, 54), we get this:
+showing that local binary patterns are the most important (accuracy drops the most when removing them). Actually, when averaging and normalizing by feature group size (which for LBPs is the biggest, 54), we get this:
 
 
 ![Importance of feature groups](imgs/plot2.png)
